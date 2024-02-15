@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=wonjae%20github&fontSize=90" />
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limmaji&repo=hyeji)](https://github.com/Limmaji/hyeji)
 ## 📁 PROJECT
 ### 1. [마약 예방 교육용 웹 페이지 개발 : 강력 1팀](https://github.com/2023-SMHRD-IS-CLOUD-1/StrongRepo)
 </br>
