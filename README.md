@@ -1,13 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=wonjae%20github&fontSize=90" />
 
 
-
-
-
 ## 💡 PORTFOLIO
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaewon07&repo=jowonjae)]
 (https://github.com/jaewon07/jowonjae)
-
 </br>
 </br>
 
