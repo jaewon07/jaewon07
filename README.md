@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=wonjae%20github&fontSize=90" />
 
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&height=200&section=header&20render&fontSize=90&text=Hyeji's Git-Hub)
+
 
 
 ## 💡 PORTFOLIO
