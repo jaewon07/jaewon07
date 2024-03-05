@@ -46,5 +46,5 @@
 > Java / Oracle / JS / 
 > python / chart.js / 
 >  
->[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-CLOUD-1/StrongRepo) 참고
+>[프로젝트 상세 설명](https://github.com/KIMGUUNI/A_EyeF) 참고
 > 
