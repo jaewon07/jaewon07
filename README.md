@@ -35,7 +35,7 @@
 >
 </br>
 
-### 2. [AI 기반 CCTV 분석을 통한 맞춤 광고 제공 서비스](https://github.com/2023-SMHRD-IS-CLOUD-1/StrongRepo)
+### 2. [AI 기반 CCTV 분석을 통한 맞춤 광고 제공 서비스](https://github.com/KIMGUUNI/A_EyeF)
 
 >마약 예방을 위한 체험 위주 교육용 웹 페이지 개발 (팀 프로젝트)  
 >
